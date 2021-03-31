@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimestoneDigital.NumberMetamorphoses", "LimestoneDigital.NumberMetamorphoses\LimestoneDigital.NumberMetamorphoses.csproj", "{D717A4A9-566E-445C-97BC-15B21603F067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimestoneDigital.NumberMetamorphoses.Tests", "LimestoneDigital.NumberMetamorphoses.Tests\LimestoneDigital.NumberMetamorphoses.Tests.csproj", "{465D8FDA-5086-4D33-BC49-B2F51AF24914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D717A4A9-566E-445C-97BC-15B21603F067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D717A4A9-566E-445C-97BC-15B21603F067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D717A4A9-566E-445C-97BC-15B21603F067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D717A4A9-566E-445C-97BC-15B21603F067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465D8FDA-5086-4D33-BC49-B2F51AF24914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465D8FDA-5086-4D33-BC49-B2F51AF24914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465D8FDA-5086-4D33-BC49-B2F51AF24914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465D8FDA-5086-4D33-BC49-B2F51AF24914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90604678-13DE-4B70-B147-FA59E44F83F0}
+	EndGlobalSection
+EndGlobal
